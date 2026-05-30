@@ -20,7 +20,7 @@ Just a practice project to improve frontend skills and understand layout design.
 ## Note
 This is not an official Netflix project. It is only a UI clone made for learning purposes.
 
-[Live Demo](https://netflux-homepage-clone.netlify.app/)
+[Live Demo](https://streamflix-ui-showcase.netlify.app/)
 
 Note: The site is best viewed on desktop or in a modern browser.
 
