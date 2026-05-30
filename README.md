@@ -22,6 +22,6 @@ This is not an official Netflix project. It is only a UI clone made for learning
 
 [Live Demo](https://netflux-homepage-clone.netlify.app/)
 
-## Note: The site is best viewed on desktop or in a modern browser.
+Note: The site is best viewed on desktop or in a modern browser.
 
 If you like this project, feel free to fork it and improve it!
